@@ -6,8 +6,8 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-email = "wingeddemon2274@gmail.com"
-password = "ermwhcbqlfqecxql"
+email = "#
+password = "#"
 
 data = requests.get(url="https://api.npoint.io/c790b4d5cab58020d391")
 data = data.json()
